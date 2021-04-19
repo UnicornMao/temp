@@ -1,0 +1,10 @@
+C:\Users\MAO\source\repos\KartuesovWIFI\KartuesovWIFI\bin\Debug\KartuesovWIFI.exe.config
+C:\Users\MAO\source\repos\KartuesovWIFI\KartuesovWIFI\bin\Debug\KartuesovWIFI.exe
+C:\Users\MAO\source\repos\KartuesovWIFI\KartuesovWIFI\bin\Debug\KartuesovWIFI.pdb
+C:\Users\MAO\source\repos\KartuesovWIFI\KartuesovWIFI\obj\Debug\KartuesovWIFI.csprojAssemblyReference.cache
+C:\Users\MAO\source\repos\KartuesovWIFI\KartuesovWIFI\obj\Debug\KartuesovWIFI.Form1.resources
+C:\Users\MAO\source\repos\KartuesovWIFI\KartuesovWIFI\obj\Debug\KartuesovWIFI.Properties.Resources.resources
+C:\Users\MAO\source\repos\KartuesovWIFI\KartuesovWIFI\obj\Debug\KartuesovWIFI.csproj.GenerateResource.cache
+C:\Users\MAO\source\repos\KartuesovWIFI\KartuesovWIFI\obj\Debug\KartuesovWIFI.csproj.CoreCompileInputs.cache
+C:\Users\MAO\source\repos\KartuesovWIFI\KartuesovWIFI\obj\Debug\KartuesovWIFI.exe
+C:\Users\MAO\source\repos\KartuesovWIFI\KartuesovWIFI\obj\Debug\KartuesovWIFI.pdb
